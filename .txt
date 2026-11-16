@@ -1,0 +1,14 @@
+- Create a project named student-profile.
+- Create index.html.
+- Add their name, course and hobbies.
+- Initialize Git.
+- Make the first commit.
+- Modify the HTML page.
+- Make a second commit.
+- Create a GitHub repository.
+- Push their project to GitHub.
+Important: Make sure every student completes the first local commit before starting GitHub integration.
+
+git config --global user.name "Richu"
+git config --global user.email "yourmail@gmail.com"
+git config --list
